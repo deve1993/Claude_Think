@@ -133,4 +133,6 @@ Then edit `~/.claude/settings.json` and remove:
 
 Built for Claude Code power users who think before they build.
 
+[MIT License](LICENSE)
+
 </div>
